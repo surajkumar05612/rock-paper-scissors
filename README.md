@@ -5,7 +5,7 @@ it's python language based CLI game, very famous and childhood game we all have 
 
 Live link:-
 
-https://repl.it/@appbrewery/rock-paper-scissors-end?embed=1&output=1
+https://repl.it/@DevSuraj/rock-paper-scissors-start?embed=1&output=1
 
 Languages Used:-
 
